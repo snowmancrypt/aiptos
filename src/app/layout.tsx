@@ -1,15 +1,8 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Press_Start_2P, Anonymous_Pro } from "next/font/google";
+import {Anonymous_Pro } from "next/font/google";
 
 // const inter = Inter({subsets: ['latin']})
-
-const psfont = Press_Start_2P({
-  weight: "400",
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-ps",
-});
 
 const apfont = Anonymous_Pro({
   weight: "400",

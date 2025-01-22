@@ -1,5 +1,4 @@
 "use client";
-import Roadmap from "@/components/Roadmap";
 import BgVideo from "@/components/background/BgVideo";
 
 export default function Home() {

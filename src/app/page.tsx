@@ -26,7 +26,7 @@ export default function Home() {
             className="w-12 h-12 md:w-20 md:h-20 robot-img"
           /> */}
         </div>
-        <div className=" mt-[-5px] flex items-center justify-center mb-8">
+        <div className=" mt-[-5px] flex items-center justify-center mb-10">
           {/* Typing Effect */}
           <p className="font-bold text-xl md:text-3xl mt-2 mr-2 typing-effect">
             The first <span className="text-[#6AF1D6]">AI Agent</span> on Aptos

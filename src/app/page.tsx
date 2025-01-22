@@ -17,7 +17,7 @@ export default function Home() {
       <header className="text-center mb-0 mt-4">
         <div className="flex items-center justify-center mb-0">
           <h1 className="text-4xl md:text-6xl font-bold glow-effect">
-            AIPTOS
+            AIPTOS 
             {/* <span className="text-[#6AF1D6]">6900</span> */}
           </h1>
           {/* <img
